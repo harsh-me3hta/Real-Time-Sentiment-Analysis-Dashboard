@@ -10,8 +10,10 @@
 
 A comprehensive web-based sentiment analysis dashboard built with Streamlit that analyzes social media sentiment in real-time. This tool supports multiple data sources, sentiment analysis methods, and provides interactive visualizations for deep insights into text sentiment patterns.
 
-
-
+<img width="1919" height="973" alt="Image" src="https://github.com/user-attachments/assets/cb65f627-cf9e-43a0-805c-582fd60600d6" />
+<img width="1919" height="942" alt="Image" src="https://github.com/user-attachments/assets/066e056c-1760-41fb-a62b-7e0bfb51cbc8" />
+<img width="1919" height="965" alt="Image" src="https://github.com/user-attachments/assets/8e061550-98e3-4686-b3d8-73c0863a6b3b" />
+<img width="1919" height="881" alt="Image" src="https://github.com/user-attachments/assets/239fd91a-7b05-45a8-9b6f-4ab5d7650fbc" />
 
 ## ✨ Features
 
